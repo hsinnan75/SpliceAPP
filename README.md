@@ -24,7 +24,7 @@ to download the package of SpliceAPP.
 
 # Dependencies
 
-To run SpliceAPP, it requires docker installed and download the prediction models (51GB) at https://bc.imb.sinica.edu.tw/SpliceAPP/data.tgz
+To run SpliceAPP, it requires docker installed and download the prediction models (16GB) at https://bc.imb.sinica.edu.tw/SpliceAPP/data.tgz
 
 Please decompress the file in the SpliceAPP. It will create a folder of data.
 
